@@ -6,7 +6,7 @@
 #### Меня зовут Дмитрий, я - начинающий инженер по тестированию. 
 
 ### Мое резюме
-[Ссылка на резюме](https://drive.google.com/file/d/1089mZWN5i2cDH-omMX1B52C_A0Tnuy4B/view?usp=sharing/)
+[CV](https://drive.google.com/file/d/1089mZWN5i2cDH-omMX1B52C_A0Tnuy4B/view?usp=sharing/)
 
 ### Инструменты
 
@@ -20,4 +20,10 @@
 ![Charlesproxy](https://img.shields.io/badge/Charlesproxy-000000?logo=Charlesproxy&logoColor=white&style=for-the-badge)
 ![YandexTracker](https://img.shields.io/badge/YandexTracker-000000?logo=Yandex&logoColor=red&style=for-the-badge)
 
-Portfolio
+### Портфолио
+#### Примеры тестовой документации:
+[Mindmaps](https://github.com/KulinichD/Mindmaps.git)
+  
+
+
+
