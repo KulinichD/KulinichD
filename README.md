@@ -23,7 +23,8 @@
 ### Портфолио
 #### Примеры тестовой документации:
 [Майндкарты](https://github.com/KulinichD/Mindmaps.git)  
-[Чек-листы и тест-кейсы](https://github.com/KulinichD/Checklists-and-Test-cases.git)
+[Чек-листы и тест-кейсы](https://github.com/KulinichD/Checklists-and-Test-cases.git)  
+[Баг-репорты](https://github.com/KulinichD/Bug-reports.git)
   
 
 
