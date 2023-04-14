@@ -25,7 +25,7 @@
 [Майндкарты](https://github.com/KulinichD/Mindmaps.git)  
 [Чек-листы и тест-кейсы](https://github.com/KulinichD/Checklists-and-Test-cases.git)  
 [Баг-репорты](https://github.com/KulinichD/Bug-reports.git)  
-[Сессионное тестирование](https://github.com/KulinichD/Testing-sessions.git)
+[Сессионное тестирование](https://github.com/KulinichD/Testing-sessions.git)  
 [Запросы SQL](https://github.com/KulinichD/SQL.git)
   
 
