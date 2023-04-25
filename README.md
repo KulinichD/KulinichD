@@ -6,7 +6,7 @@
 #### Меня зовут Дмитрий, я - начинающий инженер по тестированию. 
 
 ### Мое резюме
-[CV](https://drive.google.com/file/d/1089mZWN5i2cDH-omMX1B52C_A0Tnuy4B/view?usp=sharing/)
+[CV](https://drive.google.com/file/d/19jIodIkmSWMJEwCMHm-UPAuyKwWbxI2J/view?usp=sharing)
 
 ### Инструменты
 
